@@ -1,0 +1,25 @@
+﻿body {
+  background-color:mediumpurple;
+}
+.img{
+    height: 100px;
+    width: 100px;
+
+}
+.Conteiner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.central{
+    flex-direction:column;
+    display:flex;
+    justify-content:center;
+    margin-top:80px;
+}
+.lbl {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
